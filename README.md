@@ -24,6 +24,6 @@ The **Event Club Management System** is a web-based application designed to help
 ---
 
 🔗 Project Assets (Google Drive):  
-[Click here to view project files, screenshots, and documents](https://drive.google.com/drive/folders/1oiTVJER2-1_qckOKU7eQAw_A4jHK7KlI?usp=sharing)
+[Click here to view demo videos and code explanation videos](https://drive.google.com/drive/folders/1oiTVJER2-1_qckOKU7eQAw_A4jHK7KlI?usp=sharing)
 
 
